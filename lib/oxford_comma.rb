@@ -9,4 +9,3 @@ elsif array.length >= 3
     end
 return array.join(", ")
 end
-
